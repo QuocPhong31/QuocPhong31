@@ -5,7 +5,6 @@
 </p>
 <p>
   <h3 align="left">I put pretty much everything I do here, from playing around and general experimentation, to my own personal hobby projects. </h3>
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ileriayo" /> </p>
 </p>
 <br />
 <h3 align="left">👨‍💻 Connect with me </h3>
@@ -47,9 +46,6 @@
  
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
-      <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
   </a>
  
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
