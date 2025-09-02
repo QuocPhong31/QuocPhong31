@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="500" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 <h1 align="left">Hi 👋</h1>
 <p align="left">
-  <h3 align="left">Welcome to my Github 🐔 </h3>
+  <h3 align="left">Welcome to my Github 🥰 </h3>
 </p>
 <p>
   <h3 align="left">I put pretty much everything I do here, from playing around and general experimentation, to my own personal hobby projects. </h3>
@@ -10,7 +10,7 @@
 <br />
 <h3 align="left">👨‍💻 Connect with me </h3>
 <p align="left">
-<a href="https://facebook.com/tqphong2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://facebook.com/tqphong2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tqphong2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
